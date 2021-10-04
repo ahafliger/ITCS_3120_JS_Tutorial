@@ -1,0 +1,41 @@
+​ 31
+​ 3
+​ (2) ['Dusty', 'Misty']
+​ []
+​ (3) [empty × 3]
+​ red
+​ green
+​ blue
+​ red
+​ green
+​ blue
+​ red
+​ green
+​ blue
+​ first
+​ second
+​ fourth
+​ array[2] is undefined
+​ first
+​ second
+​ undefined
+Script:52 fourth
+Script:60 1
+Script:63 3
+Script:64 -1
+Script:67 5
+Script:70 1
+Script:71 -1
+Script:74 a
+Script:74 b
+Script:74 c
+Script:79 (3) ['A', 'B', 'C']
+Script:83 (3) [10, 20, 30]
+Script:89 true
+Script:91 false
+Script:97 true
+Script:99 true
+Script:101 false
+Script:105 60
+Script:109 value
+Script:1 undefined
