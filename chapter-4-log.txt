@@ -1,0 +1,148 @@
+​ Walking east one step
+​ Walking east one step
+​ Walking east one step
+​ Walking east one step
+​ Walking east one step
+​ 1
+​ 2
+​ 3
+​ 4
+​ 5
+​ Outer loops: 0
+​ Inner loops: 1
+​ Inner loops: 2
+​ Inner loops: 3
+​ Inner loops: 4
+​ Inner loops: 5
+​ Inner loops: 6
+​ Inner loops: 7
+​ Inner loops: 8
+​ Inner loops: 9
+​ Outer loops: 1
+​ Inner loops: 1
+​ Inner loops: 2
+​ Inner loops: 3
+​ Inner loops: 4
+​ Inner loops: 5
+​ Inner loops: 6
+​ Inner loops: 7
+​ Inner loops: 8
+​ Inner loops: 9
+​ Outer loops: 2
+​ Inner loops: 1
+​ Inner loops: 2
+​ Inner loops: 3
+​ Inner loops: 4
+​ Inner loops: 5
+​ Inner loops: 6
+​ Inner loops: 7
+​ Inner loops: 8
+​ Inner loops: 9
+​ Outer loops: 3
+​ Inner loops: 1
+​ Inner loops: 2
+​ Inner loops: 3
+​ Inner loops: 4
+​ Inner loops: 5
+​ Inner loops: 6
+​ Inner loops: 7
+​ Inner loops: 8
+​ Inner loops: 9
+​ Outer loops: 4
+​ Inner loops: 1
+​ Inner loops: 2
+​ Inner loops: 3
+​ Inner loops: 4
+​ Inner loops: 5
+​ Inner loops: 6
+​ Inner loops: 7
+​ Inner loops: 8
+​ Inner loops: 9
+​ Outer loops: 5
+​ Inner loops: 1
+​ Inner loops: 2
+​ Inner loops: 3
+​ Inner loops: 4
+​ Inner loops: 5
+​ Inner loops: 6
+​ Inner loops: 7
+​ Inner loops: 8
+​ Inner loops: 9
+​ Outer loops: 6
+​ Inner loops: 1
+​ Inner loops: 2
+​ Inner loops: 3
+​ Inner loops: 4
+​ Inner loops: 5
+​ Inner loops: 6
+​ Inner loops: 7
+​ Inner loops: 8
+​ Inner loops: 9
+​ Outer loops: 7
+​ Inner loops: 1
+​ Inner loops: 2
+​ Inner loops: 3
+​ Inner loops: 4
+​ Inner loops: 5
+​ Inner loops: 6
+​ Inner loops: 7
+​ Inner loops: 8
+​ Inner loops: 9
+​ Outer loops: 8
+​ Inner loops: 1
+​ Inner loops: 2
+​ Inner loops: 3
+​ Inner loops: 4
+​ Inner loops: 5
+​ Inner loops: 6
+​ Inner loops: 7
+​ Inner loops: 8
+​ Inner loops: 9
+​ Outer loops: 9
+​ Inner loops: 1
+​ Inner loops: 2
+​ Inner loops: 3
+​ Inner loops: 4
+​ Inner loops: 5
+​ Inner loops: 6
+​ Inner loops: 7
+​ Inner loops: 8
+​ Inner loops: 9
+​ 1
+​ 3
+​ 7
+​ 12
+​ 1
+​ 3
+​ 6
+​ 10
+​ 15
+​ 0
+​ 10
+​ 9 is odd.
+​ 9
+​ 8
+​ 7 is odd.
+​ 7
+​ 6
+​ 5 is odd.
+Script:68 5
+Script:75 i = 1
+Script:76 j = 4
+Script:64 1
+Script:75 i = 2
+Script:76 j = 4
+Script:64 2
+Script:75 i = 3
+Script:76 j = 4
+Script:64 3
+Script:75 i = 4
+Script:76 j = 4
+Script:83 0
+Script:83 1
+Script:83 2
+Script:83 foo
+Script:87 3
+Script:87 5
+Script:87 7
+Script:1 undefined
