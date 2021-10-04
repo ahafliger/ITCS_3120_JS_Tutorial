@@ -1,0 +1,5 @@
+Script:1 ƒ Engineer() {
+   WorkerBee.call(this);
+   this.dept = 'engineering';
+   this.machine = '';
+}
