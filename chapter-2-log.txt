@@ -1,0 +1,17 @@
+​ The value of a is undefined
+​ The value of b is undefined
+​ 0
+​ 5
+Script:41 undefined
+Script:46 false
+Script:56 undefined
+Script:65 bar
+Script:82 (3) ['HTML', 'CSS', 'JAVASCRIPT']
+Script:114 Saturn
+Script:115 Honda
+Script:116 Toyota
+Script:120 Jeep
+Script:121 Mazda
+Script:128 An empty string
+Script:130 Bang!
+Script:1 undefined
