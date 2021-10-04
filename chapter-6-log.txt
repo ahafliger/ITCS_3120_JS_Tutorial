@@ -1,0 +1,7 @@
+Script%236:21 my string
+Script%236:28 a[0][9]= 9
+Script%236:28 a[1][8]= 8
+Script%236:28 a[2][7]= 7
+Script%236:28 a[3][6]= 6
+Script%236:28 a[4][5]= 5
+Script%236:1 true
