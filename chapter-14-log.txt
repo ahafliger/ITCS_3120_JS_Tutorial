@@ -1,0 +1,11 @@
+VM35 Script:29 Uncaught SyntaxError: Identifier 'Rectangle' has already been declared
+Script:46 100
+Script:62 (5) [1, 2, 3, 4, 5]
+Script:86 Point
+Script:87 7.0710678118654755
+Script:105 Mitzie barks.
+Script:120 false
+Script:121 true
+Script:129 Fuzzy makes a noise.
+Script:136 Fuzzy roars.
+Script:1 undefined
