@@ -1,0 +1,4 @@
+Script:4 2147483648 2139095040 8388607
+Script:10 493 420 8
+Script:20 1.7976931348623157e+308 5e-324 Infinity -Infinity NaN
+Script:1 undefined
