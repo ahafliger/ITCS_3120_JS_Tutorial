@@ -1,0 +1,13 @@
+Script:18 25
+Script:65 begin: 3
+Script:65 begin: 2
+Script:65 begin: 1
+Script:65 begin: 0
+Script:67 end: 0
+Script:67 end: 1
+Script:67 end: 2
+Script:67 end: 3
+Script:173 (3) [2, 4, 6]
+Script:184 (4) [8, 6, 7, 9]
+Script:188 (4) [8, 6, 7, 9]
+Script:1 undefined
