@@ -1,0 +1,102 @@
+gitlab.com/users/sign_in:1 Failed to load resource: the server responded with a status of 503 ()
+using-promises.js:287 
+Start - sync version
+using-promises.js:132 doTask1: complete in 5000 ms.
+using-promises.js:140 doTask2: complete in 5000 ms.
+using-promises.js:148 doTask3: complete in 5000 ms.
+using-promises.js:291 task3Result: 3
+using-promises.js:279 [Violation] 'click' handler took 15000ms
+using-promises.js:287 
+Start - sync version
+using-promises.js:132 doTask1: complete in 5000 ms.
+using-promises.js:140 doTask2: complete in 5000 ms.
+using-promises.js:148 doTask3: complete in 5000 ms.
+using-promises.js:291 task3Result: 3
+using-promises.js:279 [Violation] 'click' handler took 14999ms
+using-promises.js:297 
+Start - async version 1
+using-promises.js:167 doTask1_Async: complete in 5002 ms.
+using-promises.js:213 whenTask1Complete:  task1Result = 1
+using-promises.js:185 doTask2_Async: complete in 5000 ms.
+using-promises.js:218 whenTask2Complete:  task2Result = 2
+using-promises.js:219 Uncaught ReferenceError: doTask3Async is not defined
+    at whenTask2Complete (using-promises.js:219)
+    at task2 (using-promises.js:186)
+whenTask2Complete @ using-promises.js:219
+task2 @ using-promises.js:186
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+setTimeout (async)
+task2 @ using-promises.js:189
+using-promises.js:306 
+Start - async version 2
+using-promises.js:167 doTask1_Async: complete in 5003 ms.
+using-promises.js:185 doTask2_Async: complete in 5000 ms.
+using-promises.js:202 doTask3_Async: complete in 5002 ms.
+using-promises.js:316 task3Result: 3
+using-promises.js:325 
+Start - promise version
+using-promises.js:167 doTask1_Async: complete in 5000 ms.
+using-promises.js:185 doTask2_Async: complete in 5001 ms.
+using-promises.js:202 doTask3_Async: complete in 5003 ms.
+using-promises.js:329 task3Result: 3
