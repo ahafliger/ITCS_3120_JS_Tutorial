@@ -1,0 +1,10 @@
+Script:15 {type: 'Dot syntax', date created: 'String with space', myString: 'String value', 0.6531035635279177: 'Random Number', [object Object]: 'Object', …}
+Script:21 Invertebrates
+Script:21 Fishes
+Script:44 7
+Script:45 8
+Script:47 25
+Script:57 6
+Script:66 false
+Script:77 {name: 'grape'}
+Script:1 undefined
