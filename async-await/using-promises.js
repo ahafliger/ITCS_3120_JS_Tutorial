@@ -328,6 +328,14 @@ function onload()
                             .then(task2Result => doTask3_Promise(task2Result))
                             .then(task3Result => { console.log("task3Result: " + task3Result);});
                         break;
+                    case 5:
+                        console.log("/nStart - Promise Async Version");
+                        doTask1_Async(task1Result)
+                            .then(task1Result => doTask2_Async(task1Result))
+                            .then(task2Result => doTask3_Async(task2Result))
+                            .then(task3Result => { console.log("task3Result: " + task3Result);});
+                        console.log("TEST");
+                        break;
                 }
             });
     //window.requestAnimationFrame(computeFrame);
@@ -335,5 +343,7 @@ function onload()
     document.querySelector("input#Asynchronous1").addEventListener('click',(e)=>{taskMethod=2;});
     document.querySelector("input#Asynchronous2").addEventListener('click',(e)=>{taskMethod=3;});
     document.querySelector("input#Asynchronous3").addEventListener('click',(e)=>{taskMethod=4;});
+    document.querySelector("input#Async-Await").addEventListener('click',(e)=>{taskMethod=5;});
+
 }
 
